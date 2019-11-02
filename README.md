@@ -13,7 +13,7 @@ atentem-se aos argumentos que devem ser passados (também informados nos coment�
 - Largura do filtro (opcional)
 - Altura do filtro (opcional, atrelado ao argumento anterior)
 
-# Deteccao de features da face (nenhum argumento)
+# Detecção de features da face (nenhum argumento)
 
 - Captura e identifica rosto, olhos e boca em tempo real, através da webcam
 - Usa arquivos contidos na pasta 'haar_data', que deve estar na mesma pasta raiz do código
